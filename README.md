@@ -11,4 +11,4 @@ You can click the Preview link to take a look at your changes.
 ![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://youtu.be/vt5fpE0bzSY)
 ![Watch the video](https://www.youtube.com/watch?v=V-MX379oGqE))
 
-[![IMAGE ALT TEST](http://img.youtube.com/vi/V-MX379oGqE/0.jpeg)]((https://www.youtube.com/watch?v=V-MX379oGqE "Test")
+[![Hey](https://youutube.com/vi/V-MX379oGqE/0.jpg)](https://www.youtube.com/watch?v=V-MX379oGqE)
