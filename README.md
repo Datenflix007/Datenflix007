@@ -12,4 +12,5 @@ You can click the Preview link to take a look at your changes.
 
 [![Hey](https://img.youtube.com/vi/V-MX379oGqE/0.jpg)](https://www.youtube.com/watch?v=V-MX379oGqE&autoplay=1)
 
-[Snake Game](github.com/Datenflix/smallGames/Snake.html)
+![Snake Game](github.com/Datenflix/smallGames/Snake.html)
+
